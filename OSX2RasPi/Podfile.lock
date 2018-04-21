@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (4.7.2)
+  - Swifter (1.4.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - Swifter (from `https://github.com/httpswift/swifter.git`)
+
+EXTERNAL SOURCES:
+  Swifter:
+    :git: https://github.com/httpswift/swifter.git
+
+CHECKOUT OPTIONS:
+  Swifter:
+    :commit: 1c19479c84873cbd5a0bbdfbfb7a043d9b08d9ef
+    :git: https://github.com/httpswift/swifter.git
+
+SPEC CHECKSUMS:
+  Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
+  Swifter: 0361c3d150dbf3f162fcadf35aecfd874c614533
+
+PODFILE CHECKSUM: 4a14e730c808cfff6ec6171b8208904ff36fde04
+
+COCOAPODS: 1.4.0
